@@ -36,7 +36,7 @@ tags:
 - **价值贡献**：在大 V / 相关线程里写高质量回复，借流反哺本号（网络循环）
 - **问题转选题**：把高频好问题转为下一条内容
 - **DM 口径**：按账号主设定回应，不泄露隐私、不代做承诺
-- **负面 SOP**：按 persona-playbook §3 边界处理删 / 回 / 静音 / 拉黑触发条件，不情绪对线
+- **负面 SOP**：按 [../../references/persona-playbook.md](../../references/persona-playbook.md) §3 边界处理删 / 回 / 静音 / 拉黑触发条件，不情绪对线
 
 ## 使用方式
 
@@ -51,7 +51,7 @@ tags:
 1. **分级响应**：高价值问题展开答 / 普通点赞+短回 / 违规直接按 SOP 处理
 2. **守窗口**：发后 1–2 小时主动互动，撬动早期信号（见 growth 日历）
 3. **转选题**：把反复出现的问题记入选题库
-4. **过红线**：任何负面 / 争议先对照 persona-playbook §3 边界，再回应
+4. **过红线**：任何负面 / 争议先对照 [../../references/persona-playbook.md](../../references/persona-playbook.md) §3 边界，再回应
 
 ## 适用场景
 
@@ -64,3 +64,10 @@ tags:
 - 不冒充真人、不刷屏式铺回复、不情绪对线
 - 涉及立场 / 商业承诺的回应须账号主确认
 - 具体发什么内容交给 content-engine；增长节奏交给 growth-tactics
+
+## 与其它技能协作
+
+- 互动 SOP 与发布前审核清单的权威来源 → [../../references/content-ops-playbook.md](../../references/content-ops-playbook.md) §3 / §4
+- 负面与争议处理的边界依据 → [../../references/persona-playbook.md](../../references/persona-playbook.md) §3
+- 用已定人设去写推文 → [../content-engine/SKILL.md](../content-engine/SKILL.md)
+- 用已定人设去设计增长 → [../growth-tactics/SKILL.md](../growth-tactics/SKILL.md)
